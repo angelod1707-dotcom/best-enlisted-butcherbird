@@ -1,0 +1,34 @@
+{
+  "keyword": "Enlisted",
+  "slug": "best-enlisted-butcherbird",
+  "game": "enlisted",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 0,
+  "short_link": "https://share.google/MpERCe0fKziFkJyTO",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "EAC",
+  "modules": [
+    "spoofer",
+    "aimbot"
+  ],
+  "has_skins": false,
+  "players": 3588,
+  "keepalive": {
+    "file": ".github/workflows/housekeeping.yml",
+    "name": "Content sync",
+    "crons": [
+      "59 2 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s3",
+    "label": "Get instructions New",
+    "icon": "download"
+  },
+  "files": 25,
+  "bytes": 2485928
+}
